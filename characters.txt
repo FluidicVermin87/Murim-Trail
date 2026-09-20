@@ -1,0 +1,6 @@
+playerName|age|strength|stamina|wisdom|pridePoints
+Li Wei|26|600|200|800|20000
+Li Feng|23|400|1000|600|20000
+Li Shu|21|800|400|600|20000
+Li Xian|19|1000|200|500|20000
+Li Qian|17|500|600|400|20000

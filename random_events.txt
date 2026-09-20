@@ -1,0 +1,13 @@
+Description | PathType (0 = Murim; 1 = Train at home; 2 = either path) |
+Advisor (0 = none; 1 = Namgoong Hyun; 2 = Cheon Baek; 3 = Jaegal Sung; 4 = Yoojin Kan; 5 = Dong-Hyeon Noe) | PridePoints (lose or gain)
+
+You are poisoned by demonic cultists|0|2|-500
+You experience intense fatigue from studying the 4 books and 5 classics|0|3|-200
+You are drained after a challenging spar with your peers|2|1|-400
+You find a divine elixir that increases qi|0|0|800
+You are attacked by bandits while traveling|2|4|-600
+Your rations are stolen by animals while traveling|0|5|-300
+You find a forgotten martial art in family library|1|0|200
+You become trapped in the unreturning formation while studying strategy|1|3|-700
+You become fatigued from helping to escort some of your father's merchants|1|1|-500
+You lose yourself to worldy pleasures for a night|2|5|-900

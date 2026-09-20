@@ -1,0 +1,16 @@
+Question(answer specifications)|Answer
+I am a skilled martial artist who hones his techniques, yet I always wear a mask. What am I? (single word, lowercase)|shadow
+I am the hidden force that flows through the body, strengthening the spirit and the blade. What am I? (single word, lowercase)|qi
+I am a deadly weapon, sharp as a tiger's claw, wielded by the heroes and villains of the Jianghu. What am I? (single word, lowercase)|sword
+I have a name that every warrior fears, for I am the foe that all heroes must face, but I am always unseen. What am I? (single word, lowercase)|death
+I am a powerful clan, and my name is whispered in the mountains and valleys, yet I do not leave a trace. What am I? (single word, lowercase)|ghost
+I am the silent step of a master assassin, bringing death before my enemy even knows I'm near. What am I? (single word, lowercase) | shadowstep
+I am the technique that turns a simple strike into a force of nature, creating storms with every swing. What am I? (single word, lowercase)|stormfist
+I am the key to immortality, sought after by every sect, though none have yet obtained me. What am I? (single word, lowercase) | elixir
+I am a secret technique passed down through generations, my true power only unlocked when I combine with a martial hero's soul. What am I? (single word, lowercase)|legacy
+I am the one who teaches the way of the sword, my wisdom as sharp as my blade. What am I? (single word, lowercase)|master
+I am the flower that blooms once in a thousand years, said to hold the key to the heavens. What am I? (single word, lowercase)|celestialflower
+I am the force that pushes the weak to the brink of destruction and the strong to greatness. What am I? (single word, lowercase)|ambition
+I am the hidden message in a thousand scrolls, waiting for the one worthy to unlock my secrets. What am I? (single word, lowercase)|riddle
+I am a land of endless battles, where the only law is strength and only the strongest survive. What am I? (single word, lowercase)|jianghu
+I am a vow taken by all warriors of honor, binding them to a code that cannot be broken. What am I? (single word, lowercase)|oath
