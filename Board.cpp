@@ -2,13 +2,13 @@
 #include "Tile.h"
 
 #define RED "\033[48;2;230;10;10m"
-#define GREEN "\033[48;2;34;139;34m" /* Grassy Green (34,139,34) */
+#define GREEN "\033[48;2;34;139;34m"
 #define BLUE "\033[48;2;10;10;230m"
 #define PINK "\033[48;2;255;105;180m"
 #define BROWN "\033[48;2;139;69;19m"
 #define PURPLE "\033[48;2;128;0;128m"
-#define ORANGE "\033[48;2;230;115;0m" /* Orange (230,115,0) */
-#define GREY "\033[48;2;128;128;128m" /* Grey (128,128,128) */
+#define ORANGE "\033[48;2;230;115;0m"
+#define GREY "\033[48;2;128;128;128m"
 #define RESET "\033[0m"
 
 #include <iostream>
